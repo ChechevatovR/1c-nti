@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG UML-действий-прием документов-однопоточная.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.0354in" height="34.0787in"
+		viewBox="0 0 1154.55 2453.67" xml:space="preserve" color-interpolation-filters="sRGB" class="st29">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visV14CFF" v:prompt="" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visFlowchartType" v:prompt="" v:val="VT4(CrossFunctional)"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#73ae42;fill-opacity:0;stroke:#406125;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#73ae42;stroke:#406125;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st3 {fill:#ffffff;font-family:Calibri;font-size:1.99999em}
+		.st4 {fill:#73ae42;fill-opacity:0}
+		.st5 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5;visibility:hidden}
+		.st6 {fill:#73ae42;fill-opacity:0;stroke:#406125;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#73ae42;stroke:#406125;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#ffffff;font-family:Calibri;font-size:1.33333em}
+		.st9 {fill:#ffffff;font-family:Calibri;font-size:1.5em}
+		.st10 {fill:#73ae42;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5;visibility:hidden}
+		.st11 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
+		.st12 {fill:none;stroke:#73ae42;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st13 {fill:#5b9bd5;stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st14 {fill:#73ae42;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st15 {font-size:1em}
+		.st16 {marker-end:url(#mrkr4-81);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st17 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st18 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st19 {fill:#5b9bd5;font-family:Calibri;font-size:1.00001em}
+		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st21 {fill:#41719d;font-family:Calibri;font-size:1.00001em}
+		.st22 {marker-end:url(#mrkr4-175);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st23 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st24 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st25 {fill:#a5a5a5}
+		.st26 {stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st27 {fill:#a5a5a5;font-family:Calibri;font-size:1.00001em}
+		.st28 {fill:#73ae42;stroke:#73ae42;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st29 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-81" class="st17" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+		<marker id="mrkr4-175" class="st23" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<g id="group4-1" transform="translate(18,-1344.47)" v:mID="4" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF Container;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(CFF List)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt=""/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFHeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMargins" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visAutoExpand" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<title>Контейнер CFF</title>
+			<g id="shape5-2" v:mID="5" v:groupContext="shape">
+				<title>Лист.5</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(0.8):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1363.18" width="714.65" height="1090.49" class="st1"/>
+			</g>
+			<g id="shape6-4" v:mID="6" v:groupContext="shape" transform="translate(0,-1039.46)">
+				<title>Лист.6</title>
+				<desc>Приём документов абитуриента</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.31116263699002):1"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="scale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="GridRounding" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="357.325" cy="2428.16" width="714.65" height="51.0236"/>
+				<path d="M0 2453.67 L714.65 2453.67 L714.65 2402.65 L0 2402.65 L0 2453.67 Z" class="st2"/>
+				<text x="4" y="2435.36" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>Приём документов абитуриента</text>			</g>
+		</g>
+		<g id="shape7-7" v:mID="7" v:groupContext="shape" transform="translate(35.0079,-1344.47)">
+			<title>Список дорожек</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Swimlane)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(CFF Container;CFF List;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(254):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+			</v:userDefs>
+			<rect x="0" y="1414.2" width="697.642" height="1039.46" class="st4"/>
+			<rect x="0" y="1414.2" width="697.642" height="1039.46" class="st5"/>
+		</g>
+		<g id="group102-10" transform="translate(18,-247.465)" v:mID="102" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF Container;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(CFF List)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt=""/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFHeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="HeadingSpan" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="HeadingAlign" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0):1"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMargins" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visAutoExpand" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="numLanes" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				<v:ud v:nameU="visShowTitle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<title>Контейнер CFF.102</title>
+			<g id="shape103-11" v:mID="103" v:groupContext="shape">
+				<title>Лист.103</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(0.8):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1356.66" width="516.331" height="1097.01" class="st1"/>
+			</g>
+			<g id="shape104-13" v:mID="104" v:groupContext="shape" transform="translate(0,-1045.98)">
+				<title>Лист.104</title>
+				<desc>Зачисление абитуриента</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.31116263699002):1"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="scale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="GridRounding" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="258.165" cy="2428.16" width="516.34" height="51.0236"/>
+				<path d="M0 2453.67 L516.33 2453.67 L516.33 2402.65 L0 2402.65 L0 2453.67 Z" class="st2"/>
+				<text x="4" y="2435.36" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>Зачисление абитуриента</text>			</g>
+		</g>
+		<g id="shape105-16" v:mID="105" v:groupContext="shape" transform="translate(35.0079,-247.465)">
+			<title>Список дорожек.105</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Swimlane)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt="" v:val="VT4(CFF Container;CFF List;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(254):26"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+			</v:userDefs>
+			<rect x="0" y="1407.69" width="499.323" height="1045.98" class="st4"/>
+			<rect x="0" y="1407.69" width="499.323" height="1045.98" class="st5"/>
+		</g>
+		<g id="group1-19" transform="translate(35.0079,-1344.47)" v:mID="1" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Функция)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Система)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({F485ACDA-8F02-481E-8F12-A095A1E6D0FE}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=3, /stg5=0,2362, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Дорожка (вертикальная)</title>
+			<g id="shape2-20" v:mID="2" v:groupContext="shape">
+				<title>Лист.2</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1414.2" width="320.386" height="1039.46" class="st6"/>
+			</g>
+			<g id="shape3-22" v:mID="3" v:groupContext="shape" transform="translate(0,-1002.09)">
+				<title>Лист.3</title>
+				<desc>Система</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="160.193" cy="2434.98" width="320.39" height="37.3697"/>
+				<path d="M0 2453.67 L320.39 2453.67 L320.39 2416.3 L0 2416.3 L0 2453.67 Z" class="st7"/>
+				<text x="131.9" y="2439.78" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Система</text>			</g>
+		</g>
+		<g id="group12-25" transform="translate(533.445,-1344.47)" v:mID="12" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Функция)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Абитуриент)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({F485ACDA-8F02-481E-8F12-A095A1E6D0FE}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=3, /stg5=0,2362, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Дорожка (вертикальная).12</title>
+			<g id="shape13-26" v:mID="13" v:groupContext="shape">
+				<title>Лист.13</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1414.2" width="199.205" height="1039.46" class="st6"/>
+			</g>
+			<g id="shape14-28" v:mID="14" v:groupContext="shape" transform="translate(0,-1002.09)">
+				<title>Лист.14</title>
+				<desc>Абитуриент</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="99.6024" cy="2434.98" width="199.21" height="37.3697"/>
+				<path d="M0 2453.67 L199.2 2453.67 L199.2 2416.3 L0 2416.3 L0 2453.67 Z" class="st7"/>
+				<text x="59.79" y="2439.78" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Абитуриент</text>			</g>
+		</g>
+		<g id="group15-31" transform="translate(355.394,-1344.47)" v:mID="15" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Функция)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Приемная комиссия)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({F485ACDA-8F02-481E-8F12-A095A1E6D0FE}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=3, /stg5=0,2362, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Дорожка (вертикальная).15</title>
+			<g id="shape16-32" v:mID="16" v:groupContext="shape">
+				<title>Лист.16</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1414.2" width="178.051" height="1039.46" class="st6"/>
+			</g>
+			<g id="shape17-34" v:mID="17" v:groupContext="shape" transform="translate(0,-1002.09)">
+				<title>Лист.17</title>
+				<desc>Приемная комиссия</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="89.0256" cy="2434.98" width="178.06" height="37.3697"/>
+				<path d="M0 2453.67 L178.05 2453.67 L178.05 2416.3 L0 2416.3 L0 2453.67 Z" class="st7"/>
+				<text x="19.88" y="2439.78" class="st8" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Приемная комиссия</text>			</g>
+		</g>
+		<g id="group99-37" transform="translate(35.0079,-247.465)" v:mID="99" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Функция)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Система)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({787AD178-2D02-43AA-A1D5-27B905D72FA1}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=2, /stg5=0,2362, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Дорожка (вертикальная).99</title>
+			<g id="shape100-38" v:mID="100" v:groupContext="shape">
+				<title>Лист.100</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1407.69" width="323.575" height="1045.98" class="st6"/>
+			</g>
+			<g id="shape101-40" v:mID="101" v:groupContext="shape" transform="translate(0,-1011.97)">
+				<title>Лист.101</title>
+				<desc>Система</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="161.787" cy="2436.66" width="323.58" height="34.0157"/>
+				<path d="M0 2453.67 L323.57 2453.67 L323.57 2419.65 L0 2419.65 L0 2453.67 Z" class="st7"/>
+				<text x="129.96" y="2442.06" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Система</text>			</g>
+		</g>
+		<g id="group110-43" transform="translate(358.583,-247.465)" v:mID="110" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Swimlane;DoNotContain)"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeadingSide" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyleCount" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Функция)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="visCFFSingleLaneShowAll" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visDirection" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visRotateLabel" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visHeadingText" v:prompt="" v:val="VT4(Приемная комиссия)"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SwimlaneListGUID" v:prompt="" v:val="VT15({787AD178-2D02-43AA-A1D5-27B905D72FA1}):41"/>
+				<v:ud v:nameU="visCFFSettings" v:prompt="" v:val="VT4(/stg1=1, /stg2=1, /stg3=1, /stg4=2, /stg5=0,2362, /stg6=0)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+			</v:userDefs>
+			<title>Дорожка (вертикальная).110</title>
+			<g id="shape111-44" v:mID="111" v:groupContext="shape">
+				<title>Лист.111</title>
+				<v:userDefs>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="FillForegndTrans" v:prompt="" v:val="VT0(1):27"/>
+					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ffffff)"/>
+					<v:ud v:nameU="FillBkgnd" v:prompt="" v:val="VT5(#ffffff)"/>
+				</v:userDefs>
+				<rect x="0" y="1407.69" width="175.748" height="1045.98" class="st6"/>
+			</g>
+			<g id="shape112-46" v:mID="112" v:groupContext="shape" transform="translate(0,-1011.97)">
+				<title>Лист.112</title>
+				<desc>Приемная комиссия</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Bottom)"/>
+					<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="HSide" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HTxtMargin" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+					<v:ud v:nameU="CStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="InsetY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="InsetX" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="CFFStyle" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="87.874" cy="2436.66" width="175.75" height="34.0157"/>
+				<path d="M0 2453.67 L175.75 2453.67 L175.75 2419.65 L0 2419.65 L0 2453.67 Z" class="st7"/>
+				<text x="10.08" y="2442.06" class="st9" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Приемная комиссия</text>			</g>
+		</g>
+		<g id="shape8-49" v:mID="8" v:groupContext="shape" transform="translate(18,-1344.47)">
+			<title>Список этапов</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<rect x="0" y="1451.57" width="714.65" height="1002.09" class="st10"/>
+		</g>
+		<g id="group9-51" transform="translate(18,-1344.47)" v:mID="9" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Phase;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<title>Разделитель (вертикальный)</title>
+			<g id="shape10-52" v:mID="10" v:groupContext="shape" transform="translate(2453.67,1451.57) rotate(90)">
+				<title>Лист.10</title>
+				<v:userDefs>
+					<v:ud v:nameU="FlipX" v:prompt="" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape11-54" v:mID="11" v:groupContext="shape" transform="translate(-2436.66,2453.67) rotate(-90)">
+				<title>Лист.11</title>
+				<desc>Этап приёма документов</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0.51902362204724):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+				<v:textRect cx="519.732" cy="2445.17" width="1039.47" height="17.0079"/>
+				<rect x="0" y="2436.66" width="1039.46" height="17.0079" class="st7"/>
+				<text x="2" y="2448.77" class="st11" v:langID="1049"><v:paragraph/><v:tabList/>Этап приёма документов</text>			</g>
+		</g>
+		<g id="shape106-57" v:mID="106" v:groupContext="shape" transform="translate(18,-247.465)">
+			<title>Список этапов.106</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
+				<v:ud v:nameU="msvSDContainerRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvSDListRequiredCategories" v:prompt="" v:val="VT4(Phase)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(CFF List;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListSpacing" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListAlignment" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListItemMaster" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDListNoReorder" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visHeadingHeight" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDListDirection" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<rect x="0" y="1441.7" width="516.331" height="1011.97" class="st10"/>
+		</g>
+		<g id="group107-59" transform="translate(18,-247.465)" v:mID="107" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Phase;DoNotContain)"/>
+				<v:ud v:nameU="msvSDContainerExcludedCategories" v:prompt=""
+						v:val="VT4(CFF Container;CFF List;Swimlane;Phase;NonCFF)"/>
+				<v:ud v:nameU="msvSDContainerLocked" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvSDContainerNoHighlight" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerNoRibbon" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="msvSDContainerResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvSDMembersOnHiddenLayer" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(UACTME_M.vssx)"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.010416666666667):3"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvSDContainerMargin" v:prompt="" v:val="VT0(0.23622047244094):24"/>
+				<v:ud v:nameU="visCFFStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="msvSDContainerStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ListDirection" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visShowPhase" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LineWeight" v:prompt="" v:val="VT0(0.01):29"/>
+				<v:ud v:nameU="RTL" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="CFFVertical" v:prompt="" v:val="VT0(1):26"/>
+			</v:userDefs>
+			<title>Разделитель (вертикальный).107</title>
+			<g id="shape108-60" v:mID="108" v:groupContext="shape" transform="translate(2453.67,1441.7) rotate(90)">
+				<title>Лист.108</title>
+				<v:userDefs>
+					<v:ud v:nameU="FlipX" v:prompt="" v:val="VT0(0):26"/>
+				</v:userDefs>
+			</g>
+			<g id="shape109-62" v:mID="109" v:groupContext="shape" transform="translate(-2436.66,2453.67) rotate(-90)">
+				<title>Лист.109</title>
+				<desc>Зачисление</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Heading)"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="msvSDContainerHeadingEdge" v:prompt="" v:val="VT4(Right)"/>
+					<v:ud v:nameU="HAlign" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HeadingPos" v:prompt="" v:val="VT0(3):26"/>
+					<v:ud v:nameU="SwimlaneHeadingSize" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+					<v:ud v:nameU="FirstHeadingExtend" v:prompt="" v:val="VT0(0.47244094488189):24"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+				<v:textRect cx="522.992" cy="2445.17" width="1045.99" height="17.0079"/>
+				<rect x="0" y="2436.66" width="1045.98" height="17.0079" class="st7"/>
+				<text x="2" y="2448.77" class="st11" v:langID="1049"><v:paragraph/><v:tabList/>Зачисление</text>			</g>
+		</g>
+		<g id="shape147-65" v:mID="147" v:groupContext="shape" transform="translate(61.9975,-423.213)">
+			<title>Скругленный прямоугольник</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.14359488518405):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.14359488518405):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.14359488518405):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.14359488518405):1"/>
+			</v:userDefs>
+			<path d="M10.34 2453.67 L250.52 2453.67 A10.3387 10.3387 -180 0 0 260.86 2443.33 L260.86 2092.32 A10.3387 10.3387 -180
+						 0 0 250.52 2081.98 L10.34 2081.98 A10.3387 10.3387 -180 0 0 0 2092.32 L0 2443.33 A10.3387 10.3387 -180 0
+						 0 10.34 2453.67 Z" class="st12"/>
+		</g>
+		<g id="shape20-67" v:mID="20" v:groupContext="shape" transform="translate(606.614,-2277.07)">
+			<title>Начальный узел</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Абитуриент)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<ellipse cx="17.0079" cy="2436.66" rx="17.0079" ry="17.0079" class="st13"/>
+		</g>
+		<g id="shape22-69" v:mID="22" v:groupContext="shape" transform="translate(566.929,-2217.54)">
+			<title>Действие</title>
+			<desc>Регистрация</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Абитуриент)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="25.07" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Регистрация</text>		</g>
+		<g id="shape23-72" v:mID="23" v:groupContext="shape" transform="translate(114.839,-2176.46)">
+			<title>Действие.23</title>
+			<desc>Создать анкету, назначить оба статуса: &#34;Новый&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.9843" cy="2435.27" width="147.97" height="36.8038"/>
+			<rect x="0" y="2416.87" width="147.969" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="6.72" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Создать анкету, назначить <tspan
+						x="20.42" dy="1.2em" class="st15">оба статуса: &#34;Новый&#34;</tspan></text>		</g>
+		<g id="shape24-76" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(566.929,-2234.55)">
+			<title>Динамическая соединительная линия</title>
+			<path d="M0 2453.67 L-378.11 2453.67 L-378.11 2468.91" class="st16"/>
+		</g>
+		<g id="shape28-82" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(616.535,-2277.07)">
+			<title>Динамическая соединительная линия.28</title>
+			<path d="M7.09 2453.67 L7.09 2473.14" class="st16"/>
+		</g>
+		<g id="shape31-87" v:mID="31" v:groupContext="shape" transform="translate(566.929,-2112.09)">
+			<title>Действие.31</title>
+			<desc>Заполнение данных о себе</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Абитуриент)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="5.41" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Заполнение данных <tspan
+						x="40.47" dy="1.2em" class="st15">о себе</tspan></text>		</g>
+		<g id="shape32-91" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(262.807,-2194.87)">
+			<title>Динамическая соединительная линия.32</title>
+			<path d="M0 2453.67 L360.81 2453.67 L360.81 2493.6" class="st16"/>
+		</g>
+		<g id="shape33-96" v:mID="33" v:groupContext="shape" transform="translate(613.701,-2010.61)">
+			<title>Решение</title>
+			<desc>Заполнены все необходимые поля?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Абитуриент)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="2464.87" width="194.42" height="22.4037"/>
+			<path d="M17.01 2453.67 L34.02 2436.66 L17.01 2419.65 L0 2436.66 L17.01 2453.67 Z" class="st18"/>
+			<text x="-74.84" y="2468.47" class="st19" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Заполнены все необходимые поля?</text>		</g>
+		<g id="shape39-99" v:mID="39" v:groupContext="shape" transform="translate(372.402,-1752.66)">
+			<title>Действие.39</title>
+			<desc>Проверить анкету</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="2436.66" width="127.56" height="34.0157"/>
+			<rect x="0" y="2419.65" width="127.559" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="18.09" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Проверить анкету</text>		</g>
+		<g id="shape41-102" v:mID="41" v:groupContext="shape" transform="translate(419.173,-1704.47)">
+			<title>Решение.41</title>
+			<desc>Всё заполнено верно?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="2464.87" width="124.7" height="22.4037"/>
+			<path d="M17.01 2453.67 L34.02 2436.66 L17.01 2419.65 L0 2436.66 L17.01 2453.67 Z" class="st18"/>
+			<text x="-39.98" y="2468.47" class="st19" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Всё заполнено верно?</text>		</g>
+		<g id="shape42-105" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(429.094,-1752.66)">
+			<title>Динамическая соединительная линия.42</title>
+			<path d="M7.09 2453.67 L7.09 2461.8" class="st16"/>
+		</g>
+		<g id="shape47-110" v:mID="47" v:groupContext="shape" transform="translate(114.839,-2075.14)">
+			<title>Действие.47</title>
+			<desc>Статус анкеты: &#34;В работе&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.9843" cy="2435.27" width="147.97" height="36.8038"/>
+			<rect x="0" y="2416.87" width="147.969" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="36.88" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Статус анкеты: <v:newlineChar/><tspan
+						x="46.86" dy="1.2em" class="st15">&#34;В работе&#34;</tspan></text>		</g>
+		<g id="shape50-114" v:mID="50" v:groupContext="shape" transform="translate(114.839,-1973.81)">
+			<title>Действие.50</title>
+			<desc>Стадия рассмотрения: &#34;На рассмотрении&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.9843" cy="2435.27" width="147.97" height="36.8038"/>
+			<rect x="0" y="2416.87" width="147.969" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="17.11" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Стадия рассмотрения:<v:newlineChar/><tspan
+						x="24.73" dy="1.2em" class="st15">&#34;На рассмотрении&#34;</tspan></text>		</g>
+		<g id="shape51-118" v:mID="51" v:groupContext="shape" transform="translate(171.815,-1925.57)">
+			<title>Решение.51</title>
+			<desc>Предоставлен оригинал заявления?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="2464.87" width="195.18" height="22.4037"/>
+			<path d="M17.01 2453.67 L34.02 2436.66 L17.01 2419.65 L0 2436.66 L17.01 2453.67 Z" class="st18"/>
+			<text x="-75.22" y="2468.47" class="st19" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Предоставлен оригинал заявления?</text>		</g>
+		<g id="shape53-121" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(205.831,-1942.58)">
+			<title>Динамическая соединительная линия.53</title>
+			<desc>Да</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.0276" cy="2453.67" width="60" height="22.4037"/>
+			<path d="M0 2453.67 L84.72 2453.67 L84.72 2491.59" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="21.2892" y="2446.47" width="13.4767" height="14.4001" class="st20"/>
+			<text x="21.29" y="2457.27" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Да</text>		</g>
+		<g id="shape55-128" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(171.815,-1942.58)">
+			<title>Динамическая соединительная линия.55</title>
+			<desc>Нет</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-24.4134" cy="2453.67" width="60" height="22.4037"/>
+			<path d="M0 2453.67 L-80.82 2453.67 L-80.82 2492.98" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="-33.4603" y="2446.47" width="18.0939" height="14.4001" class="st20"/>
+			<text x="-33.46" y="2457.27" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Нет</text>		</g>
+		<g id="shape54-135" v:mID="54" v:groupContext="shape" transform="translate(42.5197,-1863.21)">
+			<title>Действие.54</title>
+			<desc>Статус анкеты: &#34;Без оригинала&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.4724" cy="2436.66" width="96.95" height="34.0157"/>
+			<rect x="0" y="2419.65" width="96.9449" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="11.37" y="2433.06" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Статус анкеты: <v:newlineChar/><tspan
+						x="6.66" dy="1.2em" class="st15">&#34;Без оригинала&#34;</tspan></text>		</g>
+		<g id="shape56-139" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(181.736,-1973.81)">
+			<title>Динамическая соединительная линия.56</title>
+			<path d="M7.09 2453.67 L7.09 2461.85" class="st16"/>
+		</g>
+		<g id="shape57-144" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(613.701,-2027.62)">
+			<title>Динамическая соединительная линия.57</title>
+			<desc>Да</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-55.8415" cy="2453.67" width="60" height="22.4037"/>
+			<path d="M0 2453.67 L-424.88 2453.67 L-424.88 2464.64" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="-62.5798" y="2446.47" width="13.4767" height="14.4001" class="st20"/>
+			<text x="-62.58" y="2457.27" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Да</text>		</g>
+		<g id="shape58-151" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(566.929,-2130.5)">
+			<title>Динамическая соединительная линия.58</title>
+			<path d="M0 2453.67 L-378.11 2453.67 L-378.11 2466.18" class="st16"/>
+		</g>
+		<g id="shape59-156" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(262.807,-2093.54)">
+			<title>Динамическая соединительная линия.59</title>
+			<path d="M0 2453.67 L367.9 2453.67 L367.9 2496.54" class="st16"/>
+		</g>
+		<g id="shape60-161" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(647.717,-2027.62)">
+			<title>Динамическая соединительная линия.60</title>
+			<desc>Нет</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.1512" cy="2453.91" width="60" height="22.4037"/>
+			<path d="M0 2453.67 L68.6 2453.67 L68.6 2350.79 L38.64 2350.79" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="33.1043" y="2446.71" width="18.0939" height="14.4001" class="st20"/>
+			<text x="33.1" y="2457.51" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Нет</text>		</g>
+		<g id="shape61-168" v:mID="61" v:groupContext="shape" transform="translate(171.39,-1813.23)">
+			<title>Узел слияния</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M17.01 2453.67 L34.02 2436.66 L17.01 2419.65 L0 2436.66 L17.01 2453.67 Z" class="st18"/>
+		</g>
+		<g id="shape63-170" v:mID="63" v:groupContext="shape" v:layerMember="0" transform="translate(90.9921,-1863.21)">
+			<title>Динамическая соединительная линия.63</title>
+			<path d="M0 2453.67 L0 2486.65 L74.36 2486.65" class="st22"/>
+		</g>
+		<g id="shape64-176" v:mID="64" v:groupContext="shape" v:layerMember="0" transform="translate(188.398,-1813.23)">
+			<title>Динамическая соединительная линия.64</title>
+			<path d="M0 2453.67 L0 2463.21 L247.78 2463.21 L247.78 2474.18" class="st16"/>
+		</g>
+		<g id="shape65-181" v:mID="65" v:groupContext="shape" transform="translate(57.3484,-1704.47)">
+			<title>Действие.65</title>
+			<desc>Стадия рассмотрения: &#34;На доработку&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="128.215" cy="2436.66" width="256.43" height="34.0157"/>
+			<rect x="0" y="2419.65" width="256.429" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="30.48" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Стадия рассмотрения: &#34;На доработку&#34;</text>		</g>
+		<g id="shape66-184" v:mID="66" v:groupContext="shape" v:layerMember="0" transform="translate(419.173,-1714.39)">
+			<title>Динамическая соединительная линия.66</title>
+			<desc>Нет</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-29.4095" cy="2446.02" width="60" height="22.4037"/>
+			<path d="M0 2446.58 L-99.36 2446.58" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="-38.4563" y="2438.82" width="18.0939" height="14.4001" class="st24"/>
+			<text x="-38.46" y="2449.62" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Нет</text>		</g>
+		<g id="shape68-191" v:mID="68" v:groupContext="shape" transform="translate(166.589,-1395.47)">
+			<title>Конечный узел</title>
+			<desc>Абитуриент участвует в конкурсном отборе</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="2464.87" width="232.89" height="22.4037"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st25"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st26"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st26"/>
+			<text x="-94.07" y="2468.47" class="st27" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Абитуриент участвует в конкурсном отборе</text>		</g>
+		<g id="shape69-196" v:mID="69" v:groupContext="shape" transform="translate(57.3484,-1650.61)">
+			<title>Действие.69</title>
+			<desc>Отправить абитуриенту письмо с описанием ошибок</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="128.215" cy="2436.66" width="256.43" height="34.0157"/>
+			<rect x="0" y="2419.65" width="256.429" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="14.19" y="2433.06" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Отправить абитуриенту письмо с описанием <tspan
+						x="108.29" dy="1.2em" class="st15">ошибок</tspan></text>		</g>
+		<g id="shape70-200" v:mID="70" v:groupContext="shape" transform="translate(55.3819,-1474.16)">
+			<title>Действие.70</title>
+			<desc>Отправить абитуриенту письмо-уведомление</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="128.215" cy="2436.66" width="256.43" height="34.0157"/>
+			<rect x="0" y="2419.65" width="256.429" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="11.41" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Отправить абитуриенту письмо-уведомление</text>		</g>
+		<g id="shape73-203" v:mID="73" v:groupContext="shape" transform="translate(55.3819,-1531.54)">
+			<title>Действие.73</title>
+			<desc>Стадия рассмотрения: &#34;Принято&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="128.215" cy="2436.66" width="256.43" height="34.0157"/>
+			<rect x="0" y="2419.65" width="256.429" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="43.51" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Стадия рассмотрения: &#34;Принято&#34;</text>		</g>
+		<g id="shape113-206" v:mID="113" v:groupContext="shape" transform="translate(429.449,-1208.41)">
+			<title>Начальный узел.113</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<ellipse cx="17.0079" cy="2436.66" rx="17.0079" ry="17.0079" class="st13"/>
+		</g>
+		<g id="shape114-208" v:mID="114" v:groupContext="shape" transform="translate(389.764,-1150.32)">
+			<title>Действие.114</title>
+			<desc>Выбрать направление</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="35.07" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Выбрать <tspan
+						x="23.1" dy="1.2em" class="st15">направление</tspan></text>		</g>
+		<g id="shape116-212" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(439.37,-1150.32)">
+			<title>Динамическая соединительная линия.116</title>
+			<path d="M7.09 2453.67 L7.09 2468.91" class="st16"/>
+		</g>
+		<g id="shape115-217" v:mID="115" v:groupContext="shape" transform="translate(389.764,-1092.24)">
+			<title>Действие.115</title>
+			<desc>Нажать на &#34;Зачислить&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2435.27" width="113.39" height="36.8038"/>
+			<rect x="0" y="2416.87" width="113.386" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="30.49" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Нажать на <tspan
+						x="26.13" dy="1.2em" class="st15">&#34;Зачислить&#34;</tspan></text>		</g>
+		<g id="shape117-221" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(439.37,-1208.41)">
+			<title>Динамическая соединительная линия.117</title>
+			<path d="M7.09 2453.67 L7.09 2468.91" class="st16"/>
+		</g>
+		<g id="shape118-226" v:mID="118" v:groupContext="shape" transform="translate(61.3321,-984.96)">
+			<title>Действие.118</title>
+			<desc>Выбрать абитуриентов, участвующих в конкурсе И с оригиналом з...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="130.428" cy="2435.27" width="260.86" height="36.8038"/>
+			<rect x="0" y="2416.87" width="260.857" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="6.86" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Выбрать абитуриентов, участвующих в конкурсе <tspan
+						x="62.26" dy="1.2em" class="st15">И с оригиналом заявления</tspan></text>		</g>
+		<g id="shape120-230" v:mID="120" v:groupContext="shape" transform="translate(61.3321,-899.741)">
+			<title>Действие.120</title>
+			<desc>Конкурсантов-бюджетников отсортировать по убыванию баллов ЕГЭ...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="130.428" cy="2428.07" width="260.86" height="51.2039"/>
+			<rect x="0" y="2402.47" width="260.857" height="51.2039" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="11.63" y="2417.27" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Конкурсантов-бюджетников отсортировать по <tspan
+						x="10.89" dy="1.2em" class="st15">убыванию баллов ЕГЭ + ИД и выбрать только </tspan><tspan class="st15"
+						v:langID="1033">k </tspan><tspan x="111.7" dy="1.2em" class="st15">первых</tspan></text>		</g>
+		<g id="shape122-236" v:mID="122" v:groupContext="shape" transform="translate(61.3321,-1055.78)">
+			<title>Действие.122</title>
+			<desc>Пусть k - число бюджетных мест на выбранном направлении</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="130.428" cy="2435.27" width="260.86" height="36.8038"/>
+			<rect x="0" y="2416.87" width="260.857" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="9.59" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Пусть <tspan
+						class="st15" v:langID="1033">k </tspan>- число бюджетных мест на выбранном <tspan x="96.58" dy="1.2em"
+						class="st15">направлении</tspan></text>		</g>
+		<g id="shape124-241" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(389.764,-1110.64)">
+			<title>Динамическая соединительная линия.124</title>
+			<path d="M0 2453.67 L-198 2453.67 L-198 2465.68" class="st16"/>
+		</g>
+		<g id="shape132-246" v:mID="132" v:groupContext="shape" transform="translate(61.3321,-828.921)">
+			<title>Действие.132</title>
+			<desc>Платников выбрать всех</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="130.428" cy="2435.27" width="260.86" height="36.8038"/>
+			<rect x="0" y="2416.87" width="260.857" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="68.22" y="2438.87" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Платников выбрать всех</text>		</g>
+		<g id="shape140-249" v:mID="140" v:groupContext="shape" transform="translate(80.6301,-631.514)">
+			<title>Действие.140</title>
+			<desc>Переместить из списка абитуриентов в список студентов вместе ...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2428.07" width="228.92" height="51.2039"/>
+			<rect x="0" y="2402.47" width="228.915" height="51.2039" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="14.84" y="2417.27" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Переместить из списка абитуриентов в <tspan
+						x="27" dy="1.2em" class="st15">список студентов вместе со всеми <v:newlineChar/></tspan><tspan x="48.9"
+						dy="1.2em" class="st15">необходимыми данными</tspan></text>		</g>
+		<g id="shape141-254" v:mID="141" v:groupContext="shape" transform="translate(80.6301,-699.545)">
+			<title>Действие.141</title>
+			<desc>Сформировать номер группы, найти или, при необходимость, созд...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2428.07" width="228.92" height="51.2039"/>
+			<rect x="0" y="2402.47" width="228.915" height="51.2039" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="9.08" y="2417.27" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Сформировать номер группы, найти или, <tspan
+						x="16.16" dy="1.2em" class="st15">при необходимость, создать сущность </tspan><tspan x="57.16" dy="1.2em"
+						class="st15">Группа в соотв. списке</tspan></text>		</g>
+		<g id="shape142-259" v:mID="142" v:groupContext="shape" transform="translate(80.6301,-579.277)">
+			<title>Действие.142</title>
+			<desc>Назначить студенту группу, сгенерировать номера студ. билета ...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2435.27" width="228.92" height="36.8038"/>
+			<rect x="0" y="2416.87" width="228.915" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="6.01" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Назначить студенту группу, сгенерировать <tspan
+						x="12.33" dy="1.2em" class="st15">номера студ. билета и зачетной книжки</tspan></text>		</g>
+		<g id="shape143-263" v:mID="143" v:groupContext="shape" transform="translate(80.6301,-482.718)">
+			<title>Действие.143</title>
+			<desc>Убрать у пользователя роль &#34;Абитуриент&#34;, добавить роль &#34;Студе...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2435.27" width="228.92" height="36.8038"/>
+			<rect x="0" y="2416.87" width="228.915" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="5.59" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Убрать у пользователя роль &#34;Абитуриент&#34;, <tspan
+						x="50.79" dy="1.2em" class="st15">добавить роль &#34;Студент&#34;</tspan></text>		</g>
+		<g id="shape144-267" v:mID="144" v:groupContext="shape" transform="translate(80.6301,-532.392)">
+			<title>Действие.144</title>
+			<desc>Отправить студенту письмо-уведомление</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2436.66" width="228.92" height="34.0157"/>
+			<rect x="0" y="2419.65" width="228.915" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="7.47" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Отправить студенту письмо-уведомление</text>		</g>
+		<g id="shape145-270" v:mID="145" v:groupContext="shape" transform="translate(80.6301,-435.833)">
+			<title>Действие.145</title>
+			<desc>Добавить в список приказа о зачислении</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="114.457" cy="2436.66" width="228.92" height="34.0157"/>
+			<rect x="0" y="2419.65" width="228.915" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="9.56" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Добавить в список приказа о зачислении</text>		</g>
+		<g id="shape146-273" v:mID="146" v:groupContext="shape" transform="translate(61.9975,-360.85)">
+			<title>Действие.146</title>
+			<desc>Показать пользователю приказ</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="130.428" cy="2436.66" width="260.86" height="34.0157"/>
+			<rect x="0" y="2419.65" width="260.857" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="50.58" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Показать пользователю приказ</text>		</g>
+		<g id="shape149-276" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(188.001,-699.545)">
+			<title>Динамическая соединительная линия.149</title>
+			<path d="M7.09 2453.67 L7.09 2464.46" class="st16"/>
+		</g>
+		<g id="shape150-281" v:mID="150" v:groupContext="shape" v:layerMember="0" transform="translate(188.001,-631.514)">
+			<title>Динамическая соединительная линия.150</title>
+			<path d="M7.09 2453.67 L7.09 2463.06" class="st16"/>
+		</g>
+		<g id="shape151-286" v:mID="151" v:groupContext="shape" v:layerMember="0" transform="translate(188.001,-533.043)">
+			<title>Динамическая соединительная линия.151</title>
+			<path d="M7.09 2454.32 L7.09 2461.15" class="st16"/>
+		</g>
+		<g id="shape154-291" v:mID="154" v:groupContext="shape" v:layerMember="0" transform="translate(188.001,-483.37)">
+			<title>Динамическая соединительная линия.154</title>
+			<path d="M7.09 2454.32 L7.09 2461.15" class="st16"/>
+		</g>
+		<g id="shape160-296" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(188.001,-579.929)">
+			<title>Динамическая соединительная линия.160</title>
+			<path d="M7.09 2454.32 L7.09 2461.15" class="st16"/>
+		</g>
+		<g id="shape163-301" v:mID="163" v:groupContext="shape" transform="translate(-2375.04,1692.78) rotate(-90)">
+			<title>Прямоугольник с одним скругленным углом</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.12015073564229):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M0 2453.67 L34.02 2453.67 L34.02 2445.02 A8.65071 8.65071 -180 0 0 25.36 2436.37 L0 2436.37 L0 2453.67 Z"
+					class="st28"/>
+		</g>
+		<g id="shape166-303" v:mID="166" v:groupContext="shape" transform="translate(78.9665,-760.89)">
+			<title>Прямоугольник</title>
+			<desc>Для каждого выбранного к зачислению абитуриента</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="75.8613" cy="2436.66" width="151.73" height="34.0157"/>
+			<rect x="0" y="2419.65" width="151.723" height="34.0157" class="st28"/>
+			<text x="6.78" y="2433.06" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Для каждого выбранного к <tspan
+						x="11.53" dy="1.2em" class="st15">зачислению абитуриента</tspan></text>		</g>
+		<g id="shape169-307" v:mID="169" v:groupContext="shape" v:layerMember="0" transform="translate(185.339,-423.213)">
+			<title>Динамическая соединительная линия.169</title>
+			<path d="M7.09 2453.67 L7.09 2475.98" class="st16"/>
+		</g>
+		<g id="shape171-312" v:mID="171" v:groupContext="shape" transform="translate(443.622,-264.472)">
+			<title>Конечный узел.171</title>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66 Z" class="st25"/>
+			<path d="M34.02 2436.66 A17.0079 17.0079 -180 1 0 0 2436.66 A17.0079 17.0079 -180 1 0 34.02 2436.66" class="st26"/>
+			<path d="M30.61 2436.66 A13.6063 13.6063 -180 1 0 3.4 2436.66 A13.6063 13.6063 -180 1 0 30.61 2436.66" class="st26"/>
+		</g>
+		<g id="shape172-316" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(322.854,-377.858)">
+			<title>Динамическая соединительная линия.172</title>
+			<path d="M0 2453.67 L137.78 2453.67 L137.78 2470.31" class="st16"/>
+		</g>
+		<g id="shape190-321" v:mID="190" v:groupContext="shape" transform="translate(231.201,-1861.82)">
+			<title>Действие.190</title>
+			<desc>Статус анкеты: &#34;Полный комлплект&#34;</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Система)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="59.3504" cy="2435.27" width="118.71" height="36.8038"/>
+			<rect x="0" y="2416.87" width="118.701" height="36.8038" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="22.25" y="2431.67" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Статус анкеты:<v:newlineChar/><tspan
+						x="5.44" dy="1.2em" class="st15">&#34;Полный комлплект&#34;</tspan></text>		</g>
+		<g id="shape191-325" v:mID="191" v:groupContext="shape" v:layerMember="0" transform="translate(290.551,-1861.82)">
+			<title>Динамическая соединительная линия.191</title>
+			<path d="M0 2453.67 L0 2485.25 L-79.11 2485.25" class="st16"/>
+		</g>
+		<g id="shape195-330" v:mID="195" v:groupContext="shape" v:layerMember="0" transform="translate(178.476,-1704.47)">
+			<title>Динамическая соединительная линия.195</title>
+			<path d="M7.09 2453.67 L7.09 2467.47" class="st16"/>
+		</g>
+		<g id="shape197-335" v:mID="197" v:groupContext="shape" v:layerMember="0" transform="translate(176.51,-1531.54)">
+			<title>Динамическая соединительная линия.197</title>
+			<path d="M7.09 2453.67 L7.09 2470.99" class="st16"/>
+		</g>
+		<g id="shape198-340" v:mID="198" v:groupContext="shape" v:layerMember="0" transform="translate(176.51,-1474.16)">
+			<title>Динамическая соединительная линия.198</title>
+			<path d="M7.09 2453.67 L7.09 2492.3" class="st16"/>
+		</g>
+		<g id="shape199-345" v:mID="199" v:groupContext="shape" v:layerMember="0" transform="translate(313.778,-1667.62)">
+			<title>Динамическая соединительная линия.199</title>
+			<path d="M0 2453.67 L196.84 2453.67 A2.3622 2.3622 0 1 1 201.56 2453.67 L413.31 2453.67 L413.31 1936.39 L309.84 1936.39
+						 L309.84 1966.35" class="st16"/>
+		</g>
+		<g id="shape200-350" v:mID="200" v:groupContext="shape" v:layerMember="0" transform="translate(453.189,-1721.48)">
+			<title>Динамическая соединительная линия.200</title>
+			<desc>Да</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="47.1179" cy="2453.67" width="60" height="22.4037"/>
+			<path d="M0 2453.67 L59.79 2453.67 L59.79 2575.56 L-269.59 2575.56 L-269.59 2603.56" class="st16"/>
+			<rect v:rectContext="textBkgnd" x="40.3795" y="2446.47" width="13.4767" height="14.4001" class="st20"/>
+			<text x="40.38" y="2457.27" class="st21" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Да</text>		</g>
+		<g id="shape201-357" v:mID="201" v:groupContext="shape" v:layerMember="0" transform="translate(184.674,-1055.78)">
+			<title>Динамическая соединительная линия.201</title>
+			<path d="M7.09 2453.67 L7.09 2481.65" class="st16"/>
+		</g>
+		<g id="shape203-362" v:mID="203" v:groupContext="shape" v:layerMember="0" transform="translate(184.674,-984.96)">
+			<title>Динамическая соединительная линия.203</title>
+			<path d="M7.09 2453.67 L7.09 2481.65" class="st16"/>
+		</g>
+		<g id="shape204-367" v:mID="204" v:groupContext="shape" v:layerMember="0" transform="translate(184.674,-899.741)">
+			<title>Динамическая соединительная линия.204</title>
+			<path d="M7.09 2453.67 L7.09 2481.65" class="st16"/>
+		</g>
+		<g id="shape205-372" v:mID="205" v:groupContext="shape" v:layerMember="0" transform="translate(185.006,-828.921)">
+			<title>Динамическая соединительная линия.205</title>
+			<path d="M6.75 2453.67 L7.3 2481.65" class="st16"/>
+		</g>
+		<g id="shape209-377" v:mID="209" v:groupContext="shape" v:layerMember="0" transform="translate(453.543,-321.165)">
+			<title>Динамическая соединительная линия.209</title>
+			<path d="M7.09 2453.67 L7.09 2470.31" class="st16"/>
+		</g>
+		<g id="shape208-382" v:mID="208" v:groupContext="shape" transform="translate(403.937,-321.165)">
+			<title>Действие.208</title>
+			<desc>Распечатать приказ</desc>
+			<v:custProps>
+				<v:cp v:nameU="Function" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1049" v:cal="0" v:val="VT4(Приемная комиссия)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="2436.66" width="113.39" height="34.0157"/>
+			<rect x="0" y="2419.65" width="113.386" height="34.0157" rx="8.50394" ry="8.50394" class="st14"/>
+			<text x="6.98" y="2440.26" class="st11" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Распечатать приказ</text>		</g>
+	</g>
+</svg>
